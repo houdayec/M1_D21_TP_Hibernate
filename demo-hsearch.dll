@@ -1,0 +1,385 @@
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+drop table if exists Author
+drop table if exists Book
+drop table if exists Category
+drop table if exists hibernate_sequence
+create table Author (id integer not null, biography varchar(255), firstname varchar(255), lastname varchar(255), primary key (id)) engine=MyISAM
+create table Book (id integer not null, author tinyblob, category tinyblob, content longtext, title varchar(255), primary key (id)) engine=MyISAM
+create table Category (id integer not null, description varchar(255), type varchar(255), primary key (id)) engine=MyISAM
+create table hibernate_sequence (next_val bigint) engine=MyISAM
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
+insert into hibernate_sequence values ( 1 )
